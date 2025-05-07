@@ -2888,6 +2888,22 @@
         }
       }
     },
+	  "9a1acf0031935da63917fe5fffd306c892b8387ffd3e8d4a35da604526137501": {
+    "2025-05-07T16:37:00.000Z": {
+      "name": "FluxCash",
+      "description": "FluxCash (FXC) is a CashToken built & launched on the Bitcoin Cash network with a limited supply of 100 FXC.",
+      "token": {
+        "category": "9a1acf0031935da63917fe5fffd306c892b8387ffd3e8d4a35da604526137501",
+        "symbol": "FXC",
+        "decimals": 3,
+      },
+      "uris": {
+        "web": "https://fxc-eight.vercel.app",
+        "blog": "https://fxc-eight.vercel.app",
+        "icon": "ipfs://bafkreig6mg2j44azoi524gzj2aamynqrvfgirspgbkqakyomqroq4knuwu"
+          }
+        }
+      },
     "4046913cba6b70b2214a048a3df92252849f481ffa1455ed7faf17243c36bf67": {
       "2024-11-21T06:51:35.409Z": {
         "name": "Moria USD",
